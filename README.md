@@ -1,6 +1,6 @@
-# 🍺 ST-Ctrl — 酒馆的 Android 新家
+# 🍺 Convenient-ST— 酒馆的 Android 新家，而且更便捷！
 
-> 不需要 Termux，不需要命令行，一个 APK，装好就能聊。
+> 不知道 Termux ? 不会命令行？端口保活困难？不需要你会这些，一个 APK，装好就能聊。
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Android](https://img.shields.io/badge/Android-8.0%2B-green.svg)](https://developer.android.com)
@@ -15,7 +15,7 @@
 
 ## 🍺 酒馆体验
 
-进入酒馆后就是完整的 SillyTavern 界面，和平时在浏览器里玩的一模一样。简单说就是给 ST 套了一层壳，让它以原生 App 的形式运行在手机上。后台通过前台服务保活，锁屏也不会掉线。
+进入酒馆后就是完整的 SillyTavern 界面，和平时在浏览器里玩的一模一样。就是我给 ST 套了一层壳，让它以原生 App 的形式运行在手机上。后台通过前台服务保活，锁屏也不会掉线。
 
 ---
 
@@ -23,7 +23,7 @@
 
 ### 🔒 备份系统
 
-真正做到 **1:1 备份，原封不动还原**。
+ **1:1 备份，原封不动还原**。
 
 一键打包所有用户数据：
 - 角色卡（含头像、定义文件）
@@ -104,3 +104,4 @@ cd tavern-app
 
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) — 最好的 AI 角色扮演前端
 - [nodejs-mobile](https://github.com/nodejs-mobile/nodejs-mobile) — Node.js 移动端移植
+- [ST-Ctrl](https://github.com/wancDDY/ST-Ctrl) — 此软件前身，通过拆解再修改再打包这位大佬的项目，使我真正意义上迈入 vibe coding 中。
